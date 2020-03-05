@@ -1,0 +1,20 @@
+{
+  "bus": "KAI5682",
+  "pickup": {
+    "date": "2020-02-29",
+    "time": "04:30",
+    "location": "Konappana Agrahara"
+  },
+  "drop": {
+    "date": "2020-02-29",
+    "time": "04:45",
+    "location": "Bommanahalli"
+  },
+  "transaction": {
+    "mode": "app",
+    "tickets": 2,
+    "ongoing": false,
+    "fine": 0,
+    "fare": 20
+  }
+}

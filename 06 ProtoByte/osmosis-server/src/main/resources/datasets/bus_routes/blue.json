@@ -1,0 +1,51 @@
+{
+  "route": "blue",
+  "stops": [
+    {
+      "name": "Konappana Agrahara",
+      "longitude": 12.855005,
+      "latitude": 77.664090
+    },
+    {
+      "name": "Bommanahalli",
+      "longitude": 12.902422,
+      "latitude": 77.623884
+    },
+    {
+      "name": "Hosa Road",
+      "longitude": 12.870850,
+      "latitude": 77.656430
+    },
+    {
+      "name": "Singasandra",
+      "longitude": 12.880108,
+      "latitude": 77.646403
+    }
+  ],
+  "costs": [
+    [
+      0,
+      10,
+      15,
+      20
+    ],
+    [
+      20,
+      0,
+      10,
+      15
+    ],
+    [
+      15,
+      20,
+      0,
+      10
+    ],
+    [
+      10,
+      15,
+      20,
+      0
+    ]
+  ]
+}

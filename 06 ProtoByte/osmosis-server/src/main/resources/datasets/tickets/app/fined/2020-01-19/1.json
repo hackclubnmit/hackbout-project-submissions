@@ -1,0 +1,20 @@
+{
+  "bus": "KAI7283",
+  "pickup": {
+    "date": "2020-01-19",
+    "time": "08:15",
+    "location": "Silk Board"
+  },
+  "drop": {
+    "date": null,
+    "time": null,
+    "location": null
+  },
+  "transaction": {
+    "mode": "app",
+    "tickets": 1,
+    "ongoing": false,
+    "fine": 20,
+    "fare": 40
+  }
+}

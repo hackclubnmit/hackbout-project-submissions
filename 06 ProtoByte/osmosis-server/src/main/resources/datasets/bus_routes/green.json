@@ -1,0 +1,51 @@
+{
+  "route": "green",
+  "stops": [
+    {
+      "name": "Kudlu Gate",
+      "longitude": 12.890711,
+      "latitude": 77.639240
+    },
+    {
+      "name": "Silk Board",
+      "longitude": 12.917482,
+      "latitude": 77.622454
+    },
+    {
+      "name": "BTM Layout",
+      "longitude": 12.916952,
+      "latitude": 77.608899
+    },
+    {
+      "name": "Jayadeva",
+      "longitude": 12.918075,
+      "latitude": 77.598903
+    }
+  ],
+  "costs": [
+    [
+      0,
+      10,
+      15,
+      20
+    ],
+    [
+      20,
+      0,
+      10,
+      15
+    ],
+    [
+      15,
+      20,
+      0,
+      10
+    ],
+    [
+      10,
+      15,
+      20,
+      0
+    ]
+  ]
+}

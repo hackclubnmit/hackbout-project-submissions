@@ -1,0 +1,18 @@
+version: '3.7'
+services:
+  osmosis-server:
+    image: gradle:6.2.1-jdk8
+    # The directory must be named "osmosis-server" because automatic reload watches a directory by that name.
+    # The directory must be nested (i.e., "/osmosis-server" will not work).
+    working_dir: /home/gradle/osmosis-server
+    env_file: .env
+    volumes:
+      - type: bind
+        source: .
+        target: /home/gradle/osmosis-server
+        consistency: cached # Prevents Docker for Mac bind mounts from being unusably slow.
+      - type: volume
+        source: cache
+        target: /home/gradle/.gradle
+volumes:
+  cache:

@@ -1,0 +1,51 @@
+{
+  "route": "red",
+  "stops": [
+    {
+      "name": "Marenahalli",
+      "longitude": 12.916961,
+      "latitude": 77.589036
+    },
+    {
+      "name": "Jayanagar 5th Block",
+      "longitude": 12.921873,
+      "latitude": 77.583786
+    },
+    {
+      "name": "Banashankari",
+      "longitude": 12.928776,
+      "latitude": 77.548894
+    },
+    {
+      "name": "JP Nagar 7th Phase",
+      "longitude": 12.892036,
+      "latitude": 77.581265
+    }
+  ],
+  "costs": [
+    [
+      0,
+      10,
+      15,
+      20
+    ],
+    [
+      20,
+      0,
+      10,
+      15
+    ],
+    [
+      15,
+      20,
+      0,
+      10
+    ],
+    [
+      10,
+      15,
+      20,
+      0
+    ]
+  ]
+}
