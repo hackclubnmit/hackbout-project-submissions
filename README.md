@@ -1,2 +1,3 @@
 # HackBout-2020
-Project Submissions for HackBout
+
+Name Your Projrct folder with your Team ID followed by your team name 
