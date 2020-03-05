@@ -1,5 +1,0 @@
-version: '3.7'
-services:
-  osmosis-server:
-    command: sh -c 'gradle --no-daemon -t installDist & gradle --no-daemon run'
-    ports: [80:80]
