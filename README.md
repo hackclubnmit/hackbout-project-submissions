@@ -1,3 +1,4 @@
 # HackBout-2020
 
-Name Your Projrct folder with your Team ID followed by your team name 
+Project Name: Dynamic Pricing for Hotel Revenue Management, Team Id: 04, Team Name: Albatross
+
